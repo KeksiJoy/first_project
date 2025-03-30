@@ -14,4 +14,4 @@
 1. Убедитесь, что у вас установлен Python 3.6 или новее
 2. Скачайте файл программы:
    ```bash
-   git clone https://github.com/KeksiJoy/rebus-game.git
+   git clone https://github.com/KeksiJoy/rebus_game.git
